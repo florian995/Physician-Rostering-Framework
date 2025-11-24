@@ -1,0 +1,10 @@
+cffi==1.15.1
+greenlet==3.1.1
+holidays==0.69
+mip==1.15.0
+psycopg2-binary==2.9.10
+pycparser==2.22
+python-dateutil==2.9.0.post0
+six==1.17.0
+SQLAlchemy==2.0.40
+typing_extensions==4.13.0
